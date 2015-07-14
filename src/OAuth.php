@@ -1,4 +1,7 @@
 <?php
+
+namespace Vzaar;
+
 // vim: foldmethod=marker
 
 /* Generic exception class

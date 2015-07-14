@@ -1,10 +1,13 @@
 <?php
+
+namespace Vzaar;
+
 /**
  * User's public details along with it's relevant metadata.
  * @author Skitsanos
  */
 
-require_once 'VzaarException.php';
+#require_once 'VzaarException.php';
 
 class User
 {

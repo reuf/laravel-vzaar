@@ -1,4 +1,7 @@
 <?php
+
+namespace Vzaar;
+
 /* 
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
@@ -9,9 +12,9 @@
  *
  * @author Skitsanos
  */
-require_once 'Video.php';
-require_once 'User.php';
-require_once 'VzaarException.php';
+#require_once 'Video.php';
+#require_once 'User.php';
+#require_once 'VzaarException.php';
 
 class VideoList {
     var $items;

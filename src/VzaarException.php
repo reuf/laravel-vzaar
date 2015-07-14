@@ -1,4 +1,7 @@
 <?php
+
+namespace Vzaar;
+
 //package com.vzaar;
 
 /**

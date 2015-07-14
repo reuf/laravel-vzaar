@@ -1,9 +1,12 @@
 <?php
+
+namespace Vzaar;
+
 /**
  * Active video details along with it's relevant metadata.
  *
  */
-require_once 'User.php';
+#require_once 'User.php';
 
 class Video
 {
