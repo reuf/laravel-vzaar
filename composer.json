@@ -1,4 +1,4 @@
-{ "name": "nardev/vzaar",
+{ "name": "nardev/laravel-vzaar",
   "description": "The PHP client for Vzaar API.",
   "type": "library",
   "version": "1.1.2",
