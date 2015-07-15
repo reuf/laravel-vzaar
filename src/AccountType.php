@@ -2,29 +2,6 @@
 
 namespace Vzaar;
 
-Class CostType {
-    var $currency;
-    var $monthly;
-    /**
-     *
-     * @param <string> $currency
-     * @param <integer> $monthly
-     */
-    public function CostType($currency, $monthly) {
-	$this->currency = $currency;
-	$this->monthly = $monthly;
-    }
-}
-
-Class RightsType {
-    var $borderless;
-    var $searchEnhancer;
-    public function RightsType($borderless, $searchEnhancer) {
-	$this->borderless = $borderless;
-	$this->searchEnhancer = $searchEnhancer;
-    }
-}
-
 class AccountType {
     var $version;
     var $accountId;

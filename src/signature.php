@@ -1,6 +1,10 @@
 <?php
 
+namespace Vzaar;
+
 require_once 'Vzaar.php';
+
+
 
 Vzaar::$token = 'YurxlhhEDLkce4psktKGVIxooQlSDF7T4HUWdYp6ZQ'; //
 Vzaar::$secret = 'krevision';

@@ -74,4 +74,5 @@ class UploadSignature {
         return $sig->getArray();
     }
 }
+
 ?>
